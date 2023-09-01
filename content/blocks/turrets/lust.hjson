@@ -1,4 +1,4 @@
-type: ItemTurret
+: ItemTurret
 category: turret
 health: 284
 size: 2
@@ -42,6 +42,7 @@ progress: warmup
 
 requirements: [
 redum-shards/16
+redum/16
 ]
 
 ammoTypes: {
