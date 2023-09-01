@@ -16,5 +16,6 @@ category:production
 size:2
 range:4
 requirements:[
-    emerald/42
+    redum/42
+    gradum/24
 ]
