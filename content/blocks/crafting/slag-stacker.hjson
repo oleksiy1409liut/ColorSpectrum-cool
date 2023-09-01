@@ -1,13 +1,13 @@
 type: GenericCrafter
-size: 3
+size: 4
 itemCapacity: 10
 craftTime: 100
 consumes: {
   items:[
-    redum/4
+    redum-shards/6
     ]
   liquids: [
-    slag/0.01
+    slag/0.09
   ]
 }
 drawer: [
@@ -25,7 +25,7 @@ drawer: [
     }
 ]
 outputItems: [
-  slaganium/2
+  slaganium/1
 ]
 category: crafting
 requirements: [
