@@ -23,5 +23,5 @@ consumes: {
   }
 }
 tier:2
-drillTime:500
+drillTime:250
 size:2
